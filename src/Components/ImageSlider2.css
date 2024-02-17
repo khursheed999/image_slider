@@ -1,0 +1,45 @@
+.container2{
+   border-radius: 5px;
+   padding: 5px;
+    background-color: aqua;
+}
+.imageslider2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: aqua;
+    padding: 5px;
+    border-radius: 5px;
+    background: transparent aqua;
+    flex-direction: row;
+    padding: 30px 5px;
+}
+.imageslider2 button{
+    padding: 1px 5px;
+    margin: 2px;
+    border-radius: 100%;
+    background-color: #ccc;
+    color: white;
+    cursor: pointer;
+    box-shadow: 0px 0px 7px rgba(0,0,0,0.27);
+}
+.imageslider2 button:hover{
+    background-color: white;
+    color: aqua;
+    box-shadow: 0px 0px 7px rgba(0,0,0,0.27);
+
+}
+.imageslider2 img{
+    height: 200px;
+    width: 200px;
+    border-radius: 5px;
+}
+ .radio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: row;
+    
+}
